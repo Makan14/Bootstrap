@@ -1,0 +1,91 @@
+body{
+    width: 65%;
+    margin: 0 auto;
+    background: #ededed;
+}
+
+/*-----------Navbar-------------*/
+.navbar{
+    margin: 0;
+    padding: 0;
+}
+
+.container-fluid{
+    background: #d95700;
+    padding: 1% 1%;
+}
+
+.nav-item a{
+    color: white;
+}
+
+.collapse{
+    padding-left: 62%;
+    
+}
+
+/*-----------Jumbotron-------------*/
+.jumbotron{
+    margin-bottom: 2%;
+    padding: 5% 0;
+    background: white;
+}
+
+.display-4, .lead, .btn-lg{
+    margin: 0 2%;
+    
+}
+
+.btn-lg{
+    margin: 1% 2%;
+    background: #d95700;
+    color: white;
+}
+
+/*-----------Card-------------*/
+.btn-ld{
+    color: #d95700;
+    text-decoration: none;
+    
+}
+
+.card-body{
+    text-align: center;
+}
+
+.card{
+    margin: 3% 0;
+}
+
+/*-----------ScrollNav-------------*/
+.list-group{
+    width: 100%;
+    background: #ededed;
+}
+
+.list-group-item:nth-child(2){
+    color: #d95700;
+}
+
+.list-group-item:nth-child(3){
+    color: #d95700;
+}
+
+.list-group-item:nth-child(1){
+    background: #d95700;
+    border-color: #d95700;
+}
+
+h2{
+    color: grey;
+    font-size: 25px;
+}
+
+.liste-group-item{
+    text-decoration: none;
+}
+
+h3{
+    font-size: 20px;
+}
+
